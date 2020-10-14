@@ -1,0 +1,36 @@
+{
+  "passageiro": [
+    {
+      "id": 1,
+      "name": "Felipe",
+      "destino": "Russas",
+      "data": "12/10/20"
+    },
+    {
+      "id": 2,
+      "name": "Carlim",
+      "destino": "Quixere",
+      "data": "20/10/20"
+    }
+  ],
+  "motorista": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "destino": "Russas",
+      "data": "12/10/20"
+    },
+    {
+      "id": 2,
+      "name": "Gordin",
+      "destino": "Uiras",
+      "data": "25/10/20"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "destino": "",
+      "data": ""
+    }
+  ]
+}
